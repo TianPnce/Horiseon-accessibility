@@ -1,4 +1,4 @@
-# challenge-1
+# Horiseon-Accessibility
 
 ## User Story
 AS A marketing agency
